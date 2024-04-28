@@ -3,5 +3,15 @@ public class TipoEVariaveis {
        short numeroCurto = 1;
        int numeroNormal = numeroCurto;
        short numeroCurto2 = (short) numeroNormal;
+       String meuNome = "Edson Vasconcelos";
+       System.out.println(meuNome);
+
+       int numero = 1;
+
+       numero = 10;
+
+        final double VALOR_DE_PI = 3.14;
+              
+        System.out.println(VALOR_DE_PI);
     }
 }
