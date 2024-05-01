@@ -16,7 +16,7 @@ public class Operadores {
    
     } 
     System.out.println("Fim");
-    //System.out.println(nomeCompleto);
+    System.out.println(nomeCompleto);
 
     //String nomeUm = "Edson";
     //String nomeDois = "Edson";
