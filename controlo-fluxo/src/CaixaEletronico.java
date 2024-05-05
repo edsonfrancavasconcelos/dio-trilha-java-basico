@@ -1,7 +1,7 @@
 public class CaixaEletronico {
   public static void main(String[] args) {
     double saldo = 2500.0;// variavel saldo e valor 25
-    double valorSolicitado = 1800.0;
+    double valorSolicitado = 250.0;
 
     if (valorSolicitado <= saldo) {
 
